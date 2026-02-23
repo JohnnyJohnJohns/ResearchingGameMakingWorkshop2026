@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Researching Game Making Workshop 2026
+title: Researching Game Making
 email: researchinggamemaking@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  This workshop proposes to bring together researchers who are interested in understanding and elucidating the game making process. We want to facilitate discussion on what current themes and topics are important, but also what are the most critical gaps in knowledge. It is hoped that by sharing our approaches we can start to develop larger and more ambitious collaborations as well as reach towards methodological strategies that embrace the diversity of approaches employed to study how games are made. The workshop may be of interest to anyone engaged in or interested in researching game making practices, in particular those from game design research, game production studies, games education and related fields.
+
+
+
 
 
 # Build settings
@@ -33,7 +32,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-show_downloads: [false]
+show_downloads: false
+logo: /assets/img/logo.png
 
 
 # Exclude from processing.
