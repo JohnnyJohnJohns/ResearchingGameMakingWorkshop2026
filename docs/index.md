@@ -9,37 +9,40 @@ In recent years there has been significant growth in the volume of scholarly wor
 
 We invite the submission of short papers of up to 4 pages (not including references). We also welcome submissions exploring game making from a range of perspectives including art and design studies, social sciences, humanities, computing, SCS, and other fields.
 
+**To submit a paper to the workshop reate a new submission for the "Researching Game Making" track on [EasyChair](https://easychair.org/conferences/?conf=fdg26).**
 
-## Submission Details
 
-To submit a paper to the workshop go to the following link: https://easychair.org/conferences/?conf=fdg26 and create a new submission for the "Researching Game Making" track.
+# Submission Details
 
 Please submit papers in PDF format using the ACM Masters template. You can find more info here if you are not familiar with the ACM Master template: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). Workshop papers will go through TAPS for inclusion in the proceedings.
+
+
+
+# Important Dates 
+
+- Submissions Due: April 17, 2026
+- Notifications: May 3, 2026
+- Camera Ready:  May 15, 2026
+- Workshop: August 10, 2026
 
 This workshop is co-located with the International Conference on the Foundations of Digital Games (FDG 2026), held in Copenhagen. More details: [http://fdg2026.org](http://fdg2026.org/)
 
 - **Venue:**  Royal Danish Academy in Copenhagen
 - **Time:** TBD
 - **Room:** TBD
-# Important Dates 
-
-Submissions Due: April 17, 2026
-Notifications: May 3, 2026
-Camera Ready:  May 15, 2026
-Workshop: August 10, 2026
 
 # Workshop Structure
 
 The half-day workshop will be structured as follows:
 
-•  15 Minutes: Participant introduction and workshop overview
-•  30 Minutes: Participants will have an opportunity to present their submitted paper
-•  30 Minutes: Building a research network activity where participants develop a network of connections between their experiences and topics
-•  15 Minutes: Research network debrief and open discussion
-•  30 Minutes: Break
-•  45 Minutes: Participants will collaborate to develop a series of research approaches answering methodological questions and assumptions inherent to their approaches through a research jam
-•  15 Minutes: Debrief of the research jam
-•  30 Minutes: Where to from here? Open discussion about potential future opportunities
+- 15 Minutes: Participant introduction and workshop overview
+- 30 Minutes: Participants will have an opportunity to present their submitted paper
+- 30 Minutes: Building a research network activity where participants develop a network of connections between their experiences and topics
+- 15 Minutes: Research network debrief and open discussion
+- 30 Minutes: Break
+- 45 Minutes: Participants will collaborate to develop a series of research approaches answering methodological questions and assumptions inherent to their approaches through a research jam
+- 15 Minutes: Debrief of the research jam
+- 30 Minutes: Where to from here? Open discussion about potential future opportunities
 
 # Participation
 
