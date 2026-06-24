@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-# Call For Papers
+# Workshop Participation
 
 In recent years there has been significant growth in the volume of scholarly work investigating game making from a variety of perspectives \[1, 3, 4, 5\]. While the multidisciplinarity of this work showcases a breadth of approaches it can also become siloed into disciplinary dialogues \[2, 6\]. For those entering the field there is a lack of awareness of the breadth of approaches and emerging research trends in relation to game making research. Additionally, researching game design and development allows game makers to understand how others have approached similar and/or different design spaces. As part of an artistic practice, this represents an important factor in the development of the field and our role as educators and researchers.
 
-We invite the submission of short papers of up to 4 pages (not including references). We also welcome submissions exploring game making from a range of perspectives including art and design studies, social sciences, humanities, computing, SCS, and other fields.
 
-**To submit a paper to the workshop reate a new submission for the "Researching Game Making" track on [EasyChair](https://easychair.org/conferences/?conf=fdg26).**
+
+**To register for the workshop please complete the [Form.](https://forms.office.com/e/JRrbfv3buU).**
 
 
 # Submission Details
@@ -33,16 +33,11 @@ This workshop is co-located with the International Conference on the Foundations
 
 # Workshop Structure
 
-The half-day workshop will be structured as follows:
+The full-day workshop will be structured as follows:
 
-- 15 Minutes: Participant introduction and workshop overview
-- 30 Minutes: Participants will have an opportunity to present their submitted paper
-- 30 Minutes: Building a research network activity where participants develop a network of connections between their experiences and topics
-- 15 Minutes: Research network debrief and open discussion
-- 30 Minutes: Break
-- 45 Minutes: Participants will collaborate to develop a series of research approaches answering methodological questions and assumptions inherent to their approaches through a research jam
-- 15 Minutes: Debrief of the research jam
-- 30 Minutes: Where to from here? Open discussion about potential future opportunities
+- Morning: Accepted paper presentation & discussion
+- Afternoon: Network forming, research grouping and discussion
+- Closing: Where to from here? Open discussion about potential future opportunities
 
 # Participation
 
